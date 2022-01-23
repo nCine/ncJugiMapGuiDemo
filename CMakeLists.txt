@@ -1,7 +1,7 @@
 set(NCPROJECT_NAME "ncJugiMapGuiDemo")
 set(NCPROJECT_EXE_NAME "ncjugimap_guidemo")
 set(NCPROJECT_VENDOR "Jugilus")
-set(NCPROJECT_COPYRIGHT "Copyright ©2020-2021 ${NCPROJECT_VENDOR}")
+set(NCPROJECT_COPYRIGHT "Copyright ©2020-2022 ${NCPROJECT_VENDOR}")
 set(NCPROJECT_DESCRIPTION "A nCine port of the JugiMap Gui Demo by Jugilus")
 set(NCPROJECT_HOMEPAGE "http://jugimap.com")
 set(NCPROJECT_REVERSE_DNS "com.jugimap.guidemo.ncine")
